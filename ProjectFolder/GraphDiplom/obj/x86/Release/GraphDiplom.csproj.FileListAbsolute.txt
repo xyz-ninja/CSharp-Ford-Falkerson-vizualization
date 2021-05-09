@@ -1,0 +1,15 @@
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Release\GraphDiplom.exe
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Release\GraphDiplom.pdb
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Release\GraphDiplom.MainForm.resources
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Release\GraphDiplom.Properties.Resources.resources
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Release\GraphDiplom.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Release\GraphDiplom.exe
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Release\GraphDiplom.pdb
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\bin\Release\GraphDiplom.exe
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\bin\Release\GraphDiplom.pdb
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.MainForm.resources
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.exe
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Release\GraphDiplom.pdb

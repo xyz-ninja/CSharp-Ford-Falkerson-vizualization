@@ -1,0 +1,40 @@
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\bin\Debug\GraphDiplom.exe
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\bin\Debug\GraphDiplom.pdb
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\obj\x86\Debug\GraphDiplom.MainForm.resources
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\obj\x86\Debug\GraphDiplom.Properties.Resources.resources
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.GenerateResource.Cache
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\obj\x86\Debug\GraphDiplom.exe
+C:\Users\макс\AppData\Local\Temporary Projects\GraphDiplom\obj\x86\Debug\GraphDiplom.pdb
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.exe
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.pdb
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.csprojResolveAssemblyReference.cache
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.MainForm.resources
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.Properties.Resources.resources
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.GenerateResource.Cache
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Debug\GraphDiplom.exe
+C:\Users\макс\documents\visual studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Debug\GraphDiplom.pdb
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.exe
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.pdb
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Debug\GraphDiplom.exe
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\bin\Debug\GraphDiplom.pdb
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.MainForm.resources
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.Properties.Resources.resources
+C:\Users\123\Documents\Visual Studio 2010\Projects\GraphDiplom\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.GenerateResource.Cache
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.exe
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.pdb
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\bin\Debug\GraphDiplom.exe
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\bin\Debug\GraphDiplom.pdb
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.csprojResolveAssemblyReference.cache
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.MainForm.resources
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.Properties.Resources.resources
+D:\Универ\4_Абкелямова\GraphComplex\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\bin\Debug\GraphDiplom.exe
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\bin\Debug\GraphDiplom.pdb
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.MainForm.resources
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.exe
+C:\Users\User\OneDrive\Рабочий стол\github\csharp_ford_falcerson_vizualization\ProjectFolder\GraphDiplom\obj\x86\Debug\GraphDiplom.pdb
