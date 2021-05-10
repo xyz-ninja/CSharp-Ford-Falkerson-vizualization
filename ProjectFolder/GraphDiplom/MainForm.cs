@@ -137,32 +137,31 @@ namespace GraphDiplom
                         n.getCenterPos().x + 3, n.getCenterPos().y + 3);
 
                     // пишем метки узла из алгоритма Форда-Фалкерсона
-//                    if (n.ffLabel == null)
-  //                   {
-     //                   g.DrawString(
-       //                     "[ ... ]", f2, new SolidBrush(Color.IndianRed),
-         //                   n.getCenterPos().x, n.getCenterPos().y + n.size.x);
-           //         }
-             //       else
-               //     {
-                 //       Vec2 ffTextLabel = new Vec2(Convert.ToString(n.ffLabel.x), Convert.ToString(n.ffLabel.y));
-                    //
-                      //  if (n.ffLabel.x.GetType() != typeof(int) && n.ffLabel.x == FastMath.SYMBOLS.INF)
-                        //    ffTextLabel.x = "∞";
-//                        if (n.ffLabel.y.GetType() != typeof(int) && n.ffLabel.y == FastMath.SYMBOLS.DASH)
-  //                          ffTextLabel.y = "-";
-    //                    if (n.ffLabel.x.GetType() != typeof(int) && n.ffLabel.x == FastMath.SYMBOLS.REMOVED)
-      //                  {
-        //                    ffTextLabel.x = "xXx";
-          //                  ffTextLabel.y = "xXx";
-            //            }
-   //
-     //                   g.DrawString(
-       //                     "[" + ffTextLabel.x + ", " + ffTextLabel.y + "]",
-         //                   f2, new SolidBrush(Color.Maroon),
-           //                 n.getCenterPos().x, n.getCenterPos().y + n.size.x);
+                    if (n.ffLabel == null)
+                     {
+                        g.DrawString(
+                            "[ ... ]", f2, new SolidBrush(Color.IndianRed),
+                            n.getCenterPos().x, n.getCenterPos().y + n.size.x);
+                    }
+                    else
+					{
+						Vec2 ffTextLabel = new Vec2(Convert.ToString(n.ffLabel.x), Convert.ToString(n.ffLabel.y));
 
-             //       }
+ 						if (n.ffLabel.x.GetType() != typeof(int) && n.ffLabel.x == FastMath.SYMBOLS.INF)
+    						ffTextLabel.x = "∞";
+                        if (n.ffLabel.y.GetType() != typeof(int) && n.ffLabel.y == FastMath.SYMBOLS.DASH)
+                          ffTextLabel.y = "-";
+                    	if (n.ffLabel.x.GetType() != typeof(int) && n.ffLabel.x == FastMath.SYMBOLS.REMOVED)
+                  		{
+                    		ffTextLabel.x = "xXx";
+                  			ffTextLabel.y = "xXx";
+            			}
+
+	                   	g.DrawString(
+	                     "[" + ffTextLabel.x + ", " + ffTextLabel.y + "]",
+	                   	f2, new SolidBrush(Color.Maroon),
+	                	n.getCenterPos().x, n.getCenterPos().y + n.size.x);
+			       }
                 }
             }
 
